@@ -1,3 +1,13 @@
+
+  // File: szoftverziok.component.ts
+  // Author: Kovács Szilvia
+  // Copyright: 2025, Kovács Szilvia
+  // Group: Szoft II/2/E
+  // Date: 2025-11-24
+  // Github: SylviaKovacs
+  // Licenc: MIT 
+  
+
 import { Component } from '@angular/core';
 
 @Component({
